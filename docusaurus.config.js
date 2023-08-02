@@ -123,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 510208, Inc. Built with ❤.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 510208. Built with ❤.`,
       },
       prism: {
         theme: lightCodeTheme,

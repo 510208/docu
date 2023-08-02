@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '開源又好用',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        510208開發的軟體又簡單又好用，同時它們是開源的，你可以隨意修改，並在合法狀態下發布它，或整進你的軟體！
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '專注於重要的事情',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        我們許多軟體，讓你在開源之海中，可以找到這好幾盞明燈，相信我，不是所有軟體都需要付錢唷！
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '不須額外思考',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        我們盡量做到讓你使用不需要額外想怎麼下載？怎麼安裝？
+        只要輕輕一按，軟體主介面就輕鬆出現，再用人性化的快捷鍵一敲，你想做甚麼？做完了！
       </>
     ),
   },

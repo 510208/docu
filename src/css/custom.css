@@ -28,3 +28,37 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* static/css/custom.css */
+
+/* 提示元素樣式 */
+div.tip {
+  border-left: 4px solid #47a844;
+  background-color: #f0f9f0;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+/* 警告元素樣式 */
+div.warning {
+  border-left: 4px solid #d69d00;
+  background-color: #fff6ea;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+/* 訊息元素樣式 */
+div.info {
+  border-left: 4px solid #1b8ebc;
+  background-color: #f0f9fd;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+/* 注意元素樣式 */
+div.caution {
+  border-left: 4px solid #db6b00;
+  background-color: #fff1e4;
+  padding: 1em;
+  margin: 1em 0;
+}
